@@ -1,0 +1,26 @@
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\obj\x86\Debug\PICRS232_cg.Form_Principal.resources
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\obj\x86\Debug\PICRS232_cg.Properties.Resources.resources
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\bin\Debug\PICRS232_cg.exe
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\bin\Debug\PICRS232_cg.pdb
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\bin\Debug\ZedGraph.dll
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\bin\Debug\ZedGraph.xml
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\obj\x86\Debug\PICRS232_cg.exe
+C:\Users\NightRoadIx\Documents\Visual Studio 2010\Projects\PICRS232_cg\PICRS232_cg\obj\x86\Debug\PICRS232_cg.pdb
+C:\Users\NightRoadIx\documents\visual studio 2010\Projects\PICRS232_cg\PICRS232_cg\bin\Debug\ChartControl.dll
+C:\Users\NightRoadIx\documents\visual studio 2010\Projects\PICRS232_cg\PICRS232_cg\bin\Debug\Graph.dll
+R:\DenC&E\Programas\C#\Proyecto\PICRS232_cg\PICRS232_cg\obj\x86\Debug\PICRS232_cg.exe
+R:\DenC&E\Programas\C#\Proyecto\PICRS232_cg\PICRS232_cg\obj\x86\Debug\PICRS232_cg.pdb
